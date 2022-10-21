@@ -14,5 +14,8 @@ Users should be able to:
 
 ![Screenshot 2022-10-21 at 08-27-28 Interactive rating component](https://user-images.githubusercontent.com/106669781/197139047-a829c29e-84c4-4d6e-8530-ba03d1b9f8db.png)
 
+#Mobile screenshot
+![Screenshot 2022-10-21 at 08-27-39 Interactive rating component](https://user-images.githubusercontent.com/106669781/197141146-d8cd3f74-4162-4b60-a56a-41a8b36281dd.png)
 
+![Screenshot 2022-10-21 at 08-27-28 Interactive rating component](https://user-images.githubusercontent.com/106669781/197141173-53d311ad-d4db-4ed8-906e-c3ed2cd07011.png)
 
