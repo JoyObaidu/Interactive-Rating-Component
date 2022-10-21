@@ -15,7 +15,33 @@ Users should be able to:
 ![Screenshot 2022-10-21 at 08-27-28 Interactive rating component](https://user-images.githubusercontent.com/106669781/197139047-a829c29e-84c4-4d6e-8530-ba03d1b9f8db.png)
 
 #Mobile screenshot
-![Screenshot 2022-10-21 at 08-27-39 Interactive rating component](https://user-images.githubusercontent.com/106669781/197141146-d8cd3f74-4162-4b60-a56a-41a8b36281dd.png)
+![Screenshot 2022-10-21 at 09-43-24 Interactive rating component](https://user-images.githubusercontent.com/106669781/197153617-3a077753-5ddc-40cd-a02d-066f7c437618.png)
 
-![Screenshot 2022-10-21 at 08-27-28 Interactive rating component](https://user-images.githubusercontent.com/106669781/197141173-53d311ad-d4db-4ed8-906e-c3ed2cd07011.png)
+![Screenshot 2022-10-21 at 09-43-33 Interactive rating component](https://user-images.githubusercontent.com/106669781/197153550-9c0ac762-8628-46b6-b0cf-bfa9f222fc3d.png)
 
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://JoyObaidu.github.io.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Javascript
+
+### What I learned
+-All elements must have a landmark.
+-querySelector for two classes must contain "All" as in: 
+let element = document.querySelectorAll(".class-name class-name");
+
+###Continued Development
+Javascript Event Listener
+
+###Useful Resources
+ Tech Upfront - This helped me for the rating functions. I really liked this pattern and will use it going forward.
